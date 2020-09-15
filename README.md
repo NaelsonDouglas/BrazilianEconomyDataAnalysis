@@ -1,1 +1,2 @@
 # BrazilianEconomyDataAnalysis
+Este projeto utiliza de técnicas e conceitos de ciência de dados aplicadas em bases de dados relacionadas ao abono permanência e aposentadoria, bases estas disponibilizadas pelo Ministério da Economia. O objetivo é extrair informações relevantes e melhorar a visualização destes dados, podendo então auxiliar na obtenção de insights que possam ser utilizados em tomadas de decisões futuras. 
